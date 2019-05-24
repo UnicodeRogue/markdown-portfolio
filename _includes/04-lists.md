@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## Favorite things
+1. Coffee
+2. More coffee
+3. Sleep
